@@ -1,1 +1,487 @@
-<mxfile type="github" version="14.1.8" etag="xr7EMgNjWOPElSU-9S6j" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-06T13:07:41.735Z" host="app.diagrams.net"><diagram id="T2QGYsmHAN5AD-noXrCk" name="Page-1">7V1Zc+M2Ev41fJSLF0DgkZTkzVZmdpOdqmTnUbY0tjay6cjyjD2/fnHyAJoUKR6WJTlJhYQoikSju78+4QTTh9d/bBdP95/T5Wrj+O7ddr10gpnj+x77jw083y+W6Q855Mqhh8XuvjTwtLhb/bJa393v1FcxCvNP/lwv9fWeh2n+wZfbxWZV+jE+Wrrzt3RTfpzFdpv+eC4N3aaPj6vbXWlsl6ab3fqpfOHdy3q5MobY635Z/9RPoX51+abOfU+9x/JVjvgkwnLkZnH71902fXlUz+f4wTfxx4+DuRNMt2m6k0cPr9PVhs+unlv5O9cVn2aTsV097pp8YfnZ/WM22U5evOiz+6/Pv4affq4noX0XTdL0ZXurXvktvXd3v5PFZvnj6x9//voc/r79OVHXrZZ3ZfI87940wfhnX9Rput3dp3fp42Izz0cTMTcr/oQuO8uv+ZSmT2zQY4P/W+12b2r6Fy+7lA3d7x426tNsItkSXaUPq932jS8ARcC7bIg/2Xa1WezW34uPq776W7pmr59/b7fY3q12apR/VdE6jPwrJEcUrSeej4rTzg4KT5IPCWK0IAy5EKYNYZBNGD90OxKmbna/LzYvK83UeMNIlNyU5hj//cI5O/mWPu4mz2KWYnaBh59e8w/Z0Z36/0Zf3OEuc+TEc4dGzhw7FDmU8gNCHEqceegksUOo/iX27vLHyg/Ahm/ysaoVmC+k8jL5cb/erb48LcTy/ME0hr0k2MyttrvVq03qvatE8yCySU2UTL4v6BdFfvdHrlmIvSLa8iWqJH9j2nlVtKMuJ9Y84pSKMX9OTseZE3uFwQry7ScVm/RdmR7Pu23612qabtItG3lMHznjf1tvNsbQYrO+e2Snt+zuKzaecBKumV6O1QcP6+VSSA1oAZSXyHBrwAXWgG+vAYQ7rwEl8fcJZ/C7Gj28s3Reva53/2XHE/fKZTMiB77y+12FVJ3OXtX9xclb4eS31XbNiMLXQkbUMWW9WyZ94BnIx7yTpApwpyAyFhEq3SnebhfFN3nid3gGHrnqfsaTsQN5y16hgl5SRZnEpUniJDOlEhLMD8i1Q2J1QD1+kHhcT8yJQ0KuG7iUSRw6PTdxgjxbnATIFifIFie0u0rxIEhRQYBasfG4jLnhw6d2s3h+Xt/2isj2ToUcasmCEKIO9rBzlWAIsHUv2omfgRsaDzcQRwcdFIx/FApmXJUQoMgglOd2Rf+1s1vgVQ8hJkIDh4FLKV1j8S+DbrHrJFOB4djxtfjIFWCOCWffIdMc1amv9w+5OUjU4tfxA/nXm9wMwiqGK8mKwJYVHmCctaZFFxgWXriEj1jSrB8uCQFEEnGuoHOx+qdOHIjVPxPWKnVi9u9UIBLCLZ4cvkQOZWZrVPiIsdO1YLBIGExYmbY0FAeEM5s2yLdF6yphMEhYxhzrCG5MrrWtjJ3ELRjNIb+YceyZwaAgtKSo18yo8nAP7IzBRcMBaaAMYUZ45cfALSkqjGu2pOQSSZKCDGZSOeTrL/+o5ltyOYZKcvNfN/wqxTVHnDgSF0u3TCyANmODWCiHGf9d/vVErGZp/s/FR9fidcSPxjGE5bPHsB0+iL84w/V8hCi1Q5CyACpfx7pPD0uf6ZslvsHCvCyuf+kE929vj5QJytZldl7SaMhiAb8PFmjm9YW/G52hRkPElFgMoQ2i0qB4y3E42tnjbN+4L8dlU6FOv6rbiZPcjyPOtCNHPquc2boX90cmqe3aC6JD/Ts+6j8qUMt9JeXFdFAg/CtagPeN7i1564o/UN7yoGNv/hIg2oKbAf8ecL/fwTrWrpVzl5IhGkZK2uaxAD0zAZUkEHGrqffx2SBoaP/2wQa2keWxJ2IjMABmaJkhXm5r+Qo/M3CYTAv+YIYJEScUaD5x57GwvkgsgCLhqJXhbYYh2UexMNUYDJa/VYmoJZ4Xga3EFx8R4flABSwqHp4WofWprBdchpYTjIDVkvtUigZWD35mv2Ym98pNfIZyEwf0ihb+iMHr7iCZHz5kB1cbuyfDHIAwDZoJU0CXtZ10fdeiMMXcHHObJVWcCBGwYfxOAkhCASToQTwF1Zk1TVMrKJxZYeFwORILiM4IS0R+BZlzBzwfmWoXZOYgQtpFMxVaFXH6x7TkP6GBSN4QbkoSQF5/6ycuuRwSnRprztfG1PCh16BZ/iP83eAMVSICAm2DaMHQv1CmHVjxDDYqYxcUDkImPdUmWJlqhSkPGOwPhbyNuJyMsTINGOfnMZueVaihKJdoRZYhpFqJfxNg3J84s2OiGEglgWKiVrLQAfSA/FCZ4ikEEpgNxoMNlOtFFV6bK0UYExWHYCqK1PhajjIkjXxz+r2GKLKX6e9gYgXkDKUWikx9Aqn1PgQVAQUVw+4yaYNJrMSrdV2EQqrFOWPwiwnnmQ/GIVZS05gcEgKGFvJwKYGGzNQ8M6VBEx3SnOpAv75GWsEqspol0ODFA5/Ox5vnJzFlrhBpHr+OHyRCEGZB5CImz4h67SQUIrwgNpHPMRPeMBG9ldFkgpR/TN2n4M5iPxFHympIGmm60wytImzlnzRM2g568JeGgH2Z4xFBvRJCsc21M7PLvAapXQPlgoQd7LLwLNF/UEb/A6U/hh3wzVnSJXINqwxQoT3QBXWwli90EXQZJi8ghOxjgT5iUvAjSjwyza3huQjNqWqwUsTMQ2E08RCi+pr+vc/vZTpbLgzIcAbK+nrBpTW4bC8HoTPkIFPjDGS36bk17DY761GBNcLDYrFEbaGKT8ezQRxMg1pp2HtHG812IkmBU7bRYpFkymP+ZCKMtFhleagICBXepkgFUKSTyShx3WO2mbm/hUCOzCTJsxCyaE1NXkLI7Tq+SChfPElYNtJaR/RO00jDfpmvRzXRKpw0oSIxZ+RG6UMnZYeZ8TEwJz8CkkZ6oAiy3TWcfYgnxK+gCDk7imAzj8eDcsQHI0mHsid0HCnL4yKVyB/FNsYd0lLPky50FNsYd/AlHQlddLcG3X/ha2Ec7tIwMiXNjgyGNd227jpCsCFoFQBUXW9b8wNUaevFcUjsu7m1jyiz9pnCOTlr33LBjGjt4w6FVug4/GVaJnitZEKDgh8c9SE8WrO84U4wOjfsv57suR6jbteP0ckFd3CvH8mybLjIUCuJAXUj6cL+UY3J8oHmeTwFT7xaCN2a2Q1Ejut50fx1K8A4ACuSmsz6D7JEIA3hXkWoVkkMXE1K0LgLl7q1JRxet2XcUgcR05PT9voxdBCCMzp53wLhVKWewKei+UYSOFNfO31FfYo6jUQ2ocy4marOHsoHnEFdzG+l6r20p1458QeDuoO67C1AC7YkHAjR6l7KF9cp5KgbxS/XBbydY/MGEwUMFEFEUEq0TD/PalWjQm8VWRLUqPnPUQmf94sXai4zG1C6YoaLhVDlGc51QU3abQtdcFKii8LMMUb2HYYcW4QHWDlBRHVAnBQ8XBfCtmFUD853H4WwPkBYuxayhp4isi8D/6q7oegxleh0bQb7zpaw4TtyLJQlI+B03u5rpsF5QSDzBI15Ia9epEokYDOz4hJIxKLIlkCWjSFAfhJ8fCRvxjPGRPIYqv/PQgYyvnB2rQkjqA59KCQfdYgY4uNA8sceMSR7InZtXTHEdMWMEgEkH3+hjEt26g/ojqPWGqh3r+25fqAQD9woDmhpS0UXiiYhYuxOPMSE1umFiM0MkRFDxBFkBAlvWjxXdg3R9InDgiOh0CVGAWKJj2TD44BT74OhIfp+roXI9kaz9e5XlXlKX3PWWwCLEa9AnKwlL+YFGLE2dsbt7jMsuUgYHUauHuyQqNYOyQwGbZDk9sbHmmFkbhsDmQe6NUbfHAG3B4uxKFrWB2dmHhDfzNYYMyO3LrCyDwZG5wgDSRRYDUmH2Ykggvuh8FKVoJCRh4VPo9jQy6rROxVMRZA19wEUJhsKVgElHsMyD7Qr0jNbmbvazZLg5ImmuROlzIk8kaJb7kTUNXdimB2czGoIryqroW0HK38YkUAgYC8BYqIV6Nk14SOBIRP8MRUo8StJAoWOJNivbNxxSCT3pGhJLQnv+4Dh3D0W8Wnx5e2fd9fbX57uX/+9e/XR4/o/WYefQwQ6OY7MuXHRkBcabo6y3GvrBrNuNwmsgqchfKFQ3liDcKFsV743BHnh4QDa5HigeCLpUB9BzrEbAjXiGRBUbsdkoGzt0l/wSOhSTDCWWw1roMz3InazSyqwsjiD9h8uA2hYM3UtOmgt2KN+BXvt7dpeP5AagDyAYMMbmX/XJL4RhRMPkRNseGNFoEaMb+hpLG8fglW/lGSutmdM/EK3RcK1cjzXKdtzradn5baJVVuP1OxaJ9GAbKQol0p2sejdQXXX9Wb9E4/IWUyDA6MnPahxCpu6fPvN+tw8yZ7zir0xjSYqGclkRn+jLSlOCqv5Jt4GkRq5imzj2Wu3dwWo1vSexIeAAuofBSgYWS/7Vve3bpkH1g39PakHe5+gs3IGV4om7mWlNEZwZku6rivFvOHelbLvCYZZKcFFprRcKa5Fp2HazOjZLeE2gupq9HJ1DhVlsO/GYit6IvZ/A8B6hggl/vPLjeCw2r2NXam2ZXbFZtyia5vc98Zo9iZ7xfEnFNguDlUfOZmyQae6MMfq8ZdjzbnAmhlGFE+uWmsk4obSVJiqZ0403JHNw+3NDziCcfVsoFpsJLqAU9k8LmmYintMeNQoKgXxKO6MR2GkAizdymQeTlqi9mKnM71AdfuUpN6euNY922uiCB+KbFbOCQb3pQboRrrTzRY5EDnEnuZqa3W5lfl1YcuEshnxwSbf9saOOf1QDpza6FMac2LbgkRbY0rMCfNdbaNJ9eRHBekmy7Y9IfjktgXuCTKO7WNpSDkf0N+tY2E25SgvsAcEXsGlwjVXANneJ0ccGzU15qseDGcgN+hg0NvIu94tFcW9cnFUSkehpD4fhZ1ArvKjSyGh1raTboVVtDezzIx9GpuDtrbXXMtQt6rUBzC/4D64B2D33sXBO3nKbTqACSrdfeUgOWxXeV6Id64VeUTXKfacIAQD0C45Jee4dbXnmU5piAx9uBS76MyzpExgAtLulKmdXWA/5Zu8rLsYiLVjtFRtgCULYvL9im/63KyYaYsbgkLk2vrlG7ldHWmffGrv8+nRsKFIVD2JO/lS4IZP54wRLJk3UGI7TI9L4kMXUoEZqkORCpKMFTM7hD2XZ0D5pR6L+3Kf5APsTXPyjrNOwPPMbRP8qKKt9350Y7oN9PI5OIBr3bDn/gEwpS7VSaZgsAlBRxQMgKGnQM9y/Z0/u0IbbPTvl5SPb1bfdvnZYbhqLophZZdMcl1GWuJ3NdY67FF87tjlAavs4KAlJptIylJ3hi3lxry8qSeIEEvP3QtGxOIPwIiI/1PAiGIeOiHEoZ2e1v4xEHCE1ngPuNGH8vQxp7oKoMk4QBMkme21JvZDVn1GG4dN85TBJihJcoZXyDaTz0NEGFdWAIlryExfnOiIsw/1s2ryo4TfNk7Kb0pUY9tKFoIC6NlOZpxPsumdtgoinxWP+I14BIpT0x54BPK/nrdeDiwX/Yi2lQ85YC+2VVNSjWlbaefWidpWciUen20VmK3iD7etbP9kR9sq3O/wHCKDsbrM+53Sut5LHtjzP6JJFcCqVBbZq1wHt5C+Qvm4BFicDJ5u2YQLdlOWXyQyjlT2y1T1JDWzKPZ1ID6B9CRqtittnOICdFhoneLSrCSxpiBvjyK4NMv0kKnRjayy1iIZme5XO01tAJEcQiIZ8jNwzk9yGHc6ktjU0lDu7UCCOLSd3h7iigDIRcss85rNtEXObRwUfD8fSmZaxbED1eXBtIA2WBfuM5sWmceBcH8HDZQHhGoXRmkfyZpMfSp6jBYT9OWda7dlB/dg/9DdET1kbmXWkO72rmMH0B1qfnWIU7dytRQLM2Zq+1HZYhGokcio3MR/B2Et5cySF8eqjwdFhY7wmQCRveZnBYhlu+Qyp5hIVFa55fLBaqqK7cfI+n9GAjrO9GyIMhX2vtKJqVw2EX9l1QR/qhKn+a7mVLNDVCgmyapTslmVpQdx6YbqI+lLFTPGnlN9XY8o9xDol5Sv3GSrBTkJka6NdjVXCucUu5jK2pi5RsJzVVqjPKeFAgr2XurrMz5XBzvye2F1w0vZF+ebPTogzo9szg96QMn6pxtt0HDAZmo1xV/Cd02nilHkymLLKtYinJdufMxtGmxc7AeAZdu9EStM0ksfOYgkvp0WBXXHbZ8pyk63KdeCuUnC3uP+c7pc8Sv+Dw==</diagram></mxfile>
+<mxfile type="github" version="14.1.8" host="app.diagrams.net" modified="2021-01-07T14:30:45.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="-w--vppfO7L1XYysuoZQ">
+  <diagram id="T2QGYsmHAN5AD-noXrCk" name="Page-1">
+    <mxGraphModel grid="1" background="#ffffff" dx="1838" dy="607" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-4" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="yoh0tQ8aldwYVWKs4Qrz-1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-125" y="472.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-8" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="yoh0tQ8aldwYVWKs4Qrz-1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-240" y="572.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoh0tQ8aldwYVWKs4Qrz-1" value="&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;宗教战争&lt;/font&gt;&lt;/b&gt;" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="-280" y="452.5" width="80" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;合约/条约&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-200" y="452.5" width="56" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-25" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.056;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-10">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-310" y="570" />
+            <mxPoint as="sourcePoint" x="-250" y="537" />
+            <Array as="points">
+              <mxPoint x="-310" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-10" value="国家及发展脉络" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-235" y="512.5" width="90" height="50" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-11" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="-130" y="472.5" />
+            <mxPoint as="targetPoint" x="-90" y="362.5" />
+            <Array as="points">
+              <mxPoint x="-130" y="362.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-13" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-12">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="100" y="357.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-12" value="1555《奥格斯堡和约》" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-90" y="342.5" width="140" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-15" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-14">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="330" y="357.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-14" value="神圣罗马帝国皇帝查理五世&lt;br&gt;德意志新教侯" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="110" y="347.5" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-16" value="结束了德意志新教君主和天主教君主的纷争&lt;br&gt;规定自此以后每个国家的宗教就是其君主的宗教" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="340" y="340" width="260" height="35" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-18" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-17">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-120" y="587.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-21" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="dM0VD-r-u17M0NMK4Lzi-22">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-370" y="552.5" />
+            <mxPoint as="sourcePoint" x="-240" y="525.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-17" value="法国" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1">
+          <mxGeometry as="geometry" x="-260" y="572.5" width="40" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-22">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-450" y="587.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-22" value="荷兰" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1">
+          <mxGeometry as="geometry" x="-390" y="572.5" width="40" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-24" value="1572 新教徒领导发起&lt;br&gt;反抗西班牙天主教统治者的斗争" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1">
+          <mxGeometry as="geometry" x="-650" y="560" width="190" height="42.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-29" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-26">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-305" y="639.9999999999998" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-26" value="德意志" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1">
+          <mxGeometry as="geometry" x="-330" y="572.5" width="50" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-30" value="1618 宗教战争" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1">
+          <mxGeometry as="geometry" x="-350" y="640" width="90" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-31" value="&lt;font style=&quot;font-size: 9px&quot;&gt;法国波旁王朝和奥地利的哈布斯堡王朝&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-217" y="580" width="90" height="50" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-34" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-33">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="105" y="557.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-42" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-33">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-9.999999999999545" y="610" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-33" value="弗朗索瓦一世" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-65" y="542.5" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-37" value="王国城镇征税权" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="522.5" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-39" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-38">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="290" y="577.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-38" value="削弱天主教会权威" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="562.5" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-40" value="1516《博洛尼亚协定》&amp;nbsp; 确立了王权对教会职位任免权的控制" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="300" y="567.5" width="340" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-41" value="瓦卢瓦王朝" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-90" y="515" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-44" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-43">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="100" y="630" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-49" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-43">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-10" y="700" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-52" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-43">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-140" y="700" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-43" value="亨利二世（统治1547-1559）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-65" y="610" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-46" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-45">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="290" y="630" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-45" value="宗教压迫政策" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="615" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-47" value="1559《卡托-康布雷奇合约》&amp;nbsp; 结束法兰西和西班牙之间的战争" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="300" y="620" width="340" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-48" value="儿子" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-10" y="580" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-50" value="遗孀" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-140" y="660" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-55" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-51">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="100" y="720" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-63" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-51">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-10" y="790" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-64" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-51">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-140" y="770" />
+            <Array as="points">
+              <mxPoint x="-65" y="750" />
+              <mxPoint x="-140" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-51" value="弗朗索瓦二世（统治1559-1560）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-65" y="700" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-68" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-53" target="dM0VD-r-u17M0NMK4Lzi-67">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="-90" y="730" />
+              <mxPoint x="-80" y="730" />
+              <mxPoint x="-80" y="765" />
+              <mxPoint x="-10" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-69" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-53" target="dM0VD-r-u17M0NMK4Lzi-51">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-70" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-53">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="100" y="810" />
+            <Array as="points">
+              <mxPoint x="60" y="720" />
+              <mxPoint x="60" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-87" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-53" target="dM0VD-r-u17M0NMK4Lzi-85">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-10" y="909.9999999999998" />
+            <Array as="points">
+              <mxPoint x="-80" y="730" />
+              <mxPoint x="-80" y="880" />
+              <mxPoint x="-10" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-53" value="凯瑟琳·德·美第奇（摄政王）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-200" y="700" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-54" value="儿子" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="660" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-59" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-57">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="290" y="720" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-57" value="三大家族" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="705" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-60" value="吉斯家族（天主教）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="290" y="690" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-61" value="蒙莫朗家族（天主教）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="290" y="715" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-62" value="波旁家族（胡格诺派）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="290" y="740" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-65" value="玛丽·斯图亚特&lt;br&gt;（苏格兰女王）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-200" y="770" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-66" value="二弟" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="750" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-74" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-67">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-140" y="850" />
+            <Array as="points">
+              <mxPoint x="-140" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-84" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-67">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-10" y="929.9999999999998" />
+            <Array as="points">
+              <mxPoint x="-10" y="930" />
+              <mxPoint x="-10" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-67" value="查理九世（统治1560-1574）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-65" y="790" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-71" value="修复两大教派关系" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="780" width="110" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-73" value="1562&amp;nbsp; 第一次大规模宗教战争" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="818.75" width="160" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-75" value="玛格丽特" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-200" y="857" width="110" height="33" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-76" value="妹妹" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-140" y="825" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-90" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-77">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-430" y="873.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-77" value="纳瓦拉的亨利" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-360" y="853.5" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-78" value="" parent="1" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-77" target="dM0VD-r-u17M0NMK4Lzi-75">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="180" y="660" />
+            <mxPoint as="targetPoint" x="230" y="610" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-81" value="夫妻" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-240" y="835" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-82" value="天主教 瓦卢瓦家族" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-225" y="893.5" width="160" height="20" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-40" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-83" target="LaSyIgFrHphxOtx25niR-41">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="30" y="1490" />
+            <Array as="points">
+              <mxPoint x="-300" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-83" value="胡格诺派 波旁家族" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-380" y="893.5" width="160" height="20" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-88" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-85">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="110" y="950" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-39" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-85" target="LaSyIgFrHphxOtx25niR-41">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="30" y="1470" />
+            <Array as="points">
+              <mxPoint x="30" y="1470" />
+              <mxPoint x="30" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-85" value="亨利三世（统治1574-1589）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-65" y="930" width="110" height="40" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-89" value="1576签署协议放宽对新教徒的宗教活动的限制" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="935" width="160" height="30" />
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-91" value="在天主教与新教之间动摇" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-380" y="820" width="150" height="28.75" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-12" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-92">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-110" y="1200" />
+            <Array as="points">
+              <mxPoint x="210" y="1200" />
+              <mxPoint x="-110" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-21" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-92">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-110" y="1410" />
+            <Array as="points">
+              <mxPoint x="210" y="1410" />
+              <mxPoint x="-110" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-32" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-92">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-100" y="1010" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-92" value="1585凯瑟琳与吉斯公爵亨利签订《内穆尔条约》废除所有宗教宽容的赦令，许多城镇加入天主教联盟" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="980" width="160" height="60" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-1" value="1562&amp;nbsp; 皈依父亲的宗教：天主教" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-640" y="857" width="180" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-2" value="父亲死后：新教" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-640" y="893.5" width="180" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-3" value="1572 圣巴多罗买日大屠杀：天主教" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-640" y="930" width="200" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-4" value="1953&amp;nbsp; 放弃新教：天主教" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-640" y="1010" width="150" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-7" value="" parent="1" style="endArrow=classic;startArrow=classic;html=1;exitX=0.067;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-85">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="-300" y="940" />
+            <mxPoint as="targetPoint" x="-250" y="890" />
+            <Array as="points">
+              <mxPoint x="-190" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-8" value="吉斯公爵亨利" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-230" y="1000" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-9" value="弟弟" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="866" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-20" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-86">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-240" y="1120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-22" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dM0VD-r-u17M0NMK4Lzi-86">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-240" y="1330" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM0VD-r-u17M0NMK4Lzi-86" value="&lt;b&gt;1585三亨利之战&lt;/b&gt;" parent="1" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-194" y="942.5" width="64" height="27.5" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-14" value="吉斯公爵亨利" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-360" y="1120" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-15" value="亨利三世（统治1574-1589）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-225" y="1120" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-16" value="" parent="1" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" target="LaSyIgFrHphxOtx25niR-15">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="-275" y="1160" />
+            <mxPoint as="targetPoint" x="-225" y="1110" />
+            <Array as="points">
+              <mxPoint x="-240" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-17" value="纳瓦拉的亨利" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-295" y="1210" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-19" value="&lt;div align=&quot;left&quot;&gt;三亨利之战转变&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;——纳瓦拉的亨利孤军奋战&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-194" y="1060" width="164" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-23" value="暗杀吉斯公爵迫使天主教联盟对亨利三世发动全面反叛。&lt;br&gt;亨利三世被迫与纳瓦拉亨利结成同盟" parent="1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-194" y="1260" width="194" height="60" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-28" value="纳瓦拉的亨利" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-360" y="1340" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-29" value="亨利三世（统治1574-1589）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-225" y="1340" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-30" value="" parent="1" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" target="LaSyIgFrHphxOtx25niR-29">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="-275" y="1380" />
+            <mxPoint as="targetPoint" x="-225" y="1330" />
+            <Array as="points">
+              <mxPoint x="-240" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-31" value="天主教联盟" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-295" y="1430" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-38" value="离开巴黎监视之后正式放弃天主教：新教" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-640" y="970" width="230" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-49" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" source="LaSyIgFrHphxOtx25niR-41">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="-180" y="1540" />
+            <Array as="points">
+              <mxPoint x="-180" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiDo_MAlYURggGh3Gv1T-1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LaSyIgFrHphxOtx25niR-41">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="25" y="1770" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-41" value="亨利四世" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-30" y="1480" width="110" height="40" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-46" value="1595&amp;nbsp; 对西班牙宣战" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="1470" width="160" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-47" value="1598&amp;nbsp; 与腓力二世签订《韦尔万合约》结束战争" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="1510" width="260" height="30" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-48" value="&lt;div align=&quot;left&quot;&gt;1598&amp;nbsp; 《南特赦令》使天主教正式成为法兰西国教&lt;br&gt;同时使新教徒成为一种单独的社会等级，有特定的特权和权利&lt;br&gt;使胡格诺派得到了比较安全的地位&lt;/div&gt;" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;align=left;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="1550" width="330" height="70" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-50" value="玛丽·德·美第奇（凯瑟琳远房表亲）" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="-235" y="1540" width="110" height="33" />
+        </mxCell>
+        <mxCell id="LaSyIgFrHphxOtx25niR-51" value="夫妻" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="-100" y="1522.5" width="40" height="27.5" />
+        </mxCell>
+        <mxCell id="iiDo_MAlYURggGh3Gv1T-2" value="路易十三" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" x="-30" y="1770" width="110" height="40" />
+        </mxCell>
+        <mxCell id="iiDo_MAlYURggGh3Gv1T-3" value="1563 凯瑟琳发布安布瓦斯赦令，给予新教徒信仰自由和在指定地区举行宗教仪式的自由" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;align=left;" vertex="1">
+          <mxGeometry as="geometry" x="130" y="854.75" width="340" height="50" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
