@@ -1,390 +1,397 @@
-<mxfile type="github" version="14.1.8" etag="jsfQPvVK2hEWfk50_vaL" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-07T10:52:24.821Z" host="app.diagrams.net">
+<mxfile type="github" version="14.1.8" host="app.diagrams.net" modified="2021-01-07T14:30:29.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="7_n3wwFMvK8Q10EGs2u0">
   <diagram id="TQzP97epoowJSU-RKOnz" name="Page-1">
-    <mxGraphModel grid="1" dx="2076" dy="1214" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="714" dx="1221">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WVngYqx_YMuxh-05h4gM-2" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" source="WVngYqx_YMuxh-05h4gM-1">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-2" parent="1" source="WVngYqx_YMuxh-05h4gM-1" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="250" y="160" />
+            <mxPoint as="targetPoint" y="160" x="250" />
             <Array as="points">
-              <mxPoint x="190" y="160" />
+              <mxPoint y="160" x="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-1" value="西方哲学史" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="70" y="590" width="120" height="50" />
+          <mxGeometry as="geometry" y="590" x="70" height="50" width="120" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-7" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-3" target="WVngYqx_YMuxh-05h4gM-6">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-7" parent="1" source="WVngYqx_YMuxh-05h4gM-3" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WVngYqx_YMuxh-05h4gM-6">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
-              <mxPoint x="285" y="55" />
+              <mxPoint y="55" x="285" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-13" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-3">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-13" parent="1" source="WVngYqx_YMuxh-05h4gM-3" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="350" y="155" />
+            <mxPoint as="targetPoint" y="155" x="350" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-19" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-3">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-19" parent="1" source="WVngYqx_YMuxh-05h4gM-3" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="350" y="240" />
+            <mxPoint as="targetPoint" y="240" x="350" />
             <Array as="points">
-              <mxPoint x="285" y="240" />
-              <mxPoint x="310" y="240" />
+              <mxPoint y="240" x="285" />
+              <mxPoint y="240" x="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-25" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="WVngYqx_YMuxh-05h4gM-3" target="WVngYqx_YMuxh-05h4gM-28">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-25" parent="1" source="WVngYqx_YMuxh-05h4gM-3" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WVngYqx_YMuxh-05h4gM-28">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="285" y="320" />
+            <mxPoint as="targetPoint" y="320" x="285" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-3" value="智者派" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
-          <mxGeometry as="geometry" x="250" y="140" width="70" height="30" />
+          <mxGeometry as="geometry" y="140" x="250" height="30" width="70" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-9" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-6">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-9" parent="1" source="WVngYqx_YMuxh-05h4gM-6" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="490" y="55" />
+            <mxPoint as="targetPoint" y="55" x="490" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-6" value="普罗泰戈拉" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="350" y="40" width="70" height="30" />
+          <mxGeometry as="geometry" y="40" x="350" height="30" width="70" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-11" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-10">
-          <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="630" y="55" />
-          </mxGeometry>
+        <mxCell id="GLffS5xHXD3V3gzNx7sH-1" parent="1" source="WVngYqx_YMuxh-05h4gM-10" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WVngYqx_YMuxh-05h4gM-12">
+          <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-10" value="人是万物的尺度" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
-          <mxGeometry as="geometry" x="490" y="45" width="100" height="20" />
+          <mxGeometry as="geometry" y="25" x="490" height="20" width="100" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-12" value="知识、道德判断、宗教问题上都是相对的" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="630" y="45" width="250" height="20" />
+          <mxGeometry as="geometry" y="25" x="630" height="20" width="250" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-15" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-14">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-15" parent="1" source="WVngYqx_YMuxh-05h4gM-14" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="490" y="155" />
+            <mxPoint as="targetPoint" y="155" x="490" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-14" value="高尔吉亚" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="350" y="140" width="70" height="30" />
+          <mxGeometry as="geometry" y="140" x="350" height="30" width="70" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-17" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-16">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-17" parent="1" source="WVngYqx_YMuxh-05h4gM-16" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="155" />
+            <mxPoint as="targetPoint" y="155" x="690" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-16" value="拒绝承认任何真理的存在" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
-          <mxGeometry as="geometry" x="490" y="145" width="150" height="20" />
+          <mxGeometry as="geometry" y="145" x="490" height="20" width="150" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-18" value="&lt;div align=&quot;left&quot;&gt;有力即有理&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="225" width="250" height="20" />
+          <mxGeometry as="geometry" y="225" x="700" height="20" width="250" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-21" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-20">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-21" parent="1" source="WVngYqx_YMuxh-05h4gM-20" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="490" y="235" />
+            <mxPoint as="targetPoint" y="235" x="490" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-20" value="塞拉西马柯" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="350" y="220" width="70" height="30" />
+          <mxGeometry as="geometry" y="220" x="350" height="30" width="70" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-22">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-23" parent="1" source="WVngYqx_YMuxh-05h4gM-22" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="235" />
+            <mxPoint as="targetPoint" y="235" x="690" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-22" value="不正义比正义的生活更可取" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
-          <mxGeometry as="geometry" x="490" y="225" width="160" height="20" />
+          <mxGeometry as="geometry" y="225" x="490" height="20" width="160" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-24" value="&lt;div align=&quot;left&quot;&gt;1.无物存在&lt;br&gt;2.即使有物存在，也无法被认识&lt;br&gt;3.即使能被认识，也无法被传达&lt;br&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="660" y="145" width="250" height="20" />
+          <mxGeometry as="geometry" y="145" x="660" height="20" width="250" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-52" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-27">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-52" parent="1" source="WVngYqx_YMuxh-05h4gM-27" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="285" y="600" />
+            <mxPoint as="targetPoint" y="600" x="285" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-27" value="智者派最尖锐的批判者" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1">
-          <mxGeometry as="geometry" x="220" y="420" width="130" height="20" />
+          <mxGeometry as="geometry" y="420" x="220" height="20" width="130" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-33" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-28">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-33" parent="1" source="WVngYqx_YMuxh-05h4gM-28" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="420" y="395.0000000000001" />
+            <mxPoint as="targetPoint" y="395.0000000000001" x="420" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-28" value="苏格拉底" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="250" y="380" width="70" height="30" />
+          <mxGeometry as="geometry" y="380" x="250" height="30" width="70" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-32" value="逻辑矛盾" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="290" y="300" width="50" height="20" />
+          <mxGeometry as="geometry" y="300" x="290" height="20" width="50" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-34" value="获得真理和善的实质性概念" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="330" y="370" width="80" height="20" />
+          <mxGeometry as="geometry" y="370" x="330" height="20" width="80" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-35" value="&lt;b&gt;现象世界&lt;br&gt;实在世界&lt;/b&gt;" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1">
-          <mxGeometry as="geometry" x="1130" y="737" width="80" height="55" />
+          <mxGeometry as="geometry" y="737" x="1130" height="55" width="80" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-37" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="WVngYqx_YMuxh-05h4gM-39">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-37" parent="1" source="WVngYqx_YMuxh-05h4gM-39" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="370" />
+            <mxPoint as="targetPoint" y="370" x="690" />
             <Array as="points">
-              <mxPoint x="690" y="370" />
+              <mxPoint y="370" x="690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-40" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-36">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-40" parent="1" source="WVngYqx_YMuxh-05h4gM-36" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="410" />
+            <mxPoint as="targetPoint" y="410" x="690" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-45" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-36">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-45" parent="1" source="WVngYqx_YMuxh-05h4gM-36" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="440" />
+            <mxPoint as="targetPoint" y="440" x="690" />
             <Array as="points">
-              <mxPoint x="650" y="410" />
-              <mxPoint x="650" y="440" />
-              <mxPoint x="690" y="440" />
+              <mxPoint y="410" x="650" />
+              <mxPoint y="440" x="650" />
+              <mxPoint y="440" x="690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-46" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-36">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-46" parent="1" source="WVngYqx_YMuxh-05h4gM-36" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="470" />
+            <mxPoint as="targetPoint" y="470" x="690" />
             <Array as="points">
-              <mxPoint x="650" y="410" />
-              <mxPoint x="650" y="470" />
-              <mxPoint x="690" y="470" />
+              <mxPoint y="410" x="650" />
+              <mxPoint y="470" x="650" />
+              <mxPoint y="470" x="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-36" value="知识理论" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="440" y="400" width="150" height="20" />
+          <mxGeometry as="geometry" y="400" x="440" height="20" width="150" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-38" value="&lt;div align=&quot;left&quot;&gt;一个人有意识的人格&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="360" width="250" height="20" />
+          <mxGeometry as="geometry" y="360" x="700" height="20" width="250" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-39" value="灵魂概念" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="440" y="360" width="150" height="20" />
+          <mxGeometry as="geometry" y="360" x="440" height="20" width="150" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-41" value="&lt;div align=&quot;left&quot;&gt;定义的重要性（清晰而确定的概念）&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="400" width="250" height="20" />
+          <mxGeometry as="geometry" y="400" x="700" height="20" width="250" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-43" value="&lt;div align=&quot;left&quot;&gt;目的论（每个事物都有一个功能或目标）&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="430" width="250" height="20" />
+          <mxGeometry as="geometry" y="430" x="700" height="20" width="250" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-44" value="&lt;div align=&quot;left&quot;&gt;1.对事物的观察&amp;nbsp; 2.对事物的解释&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="460" width="250" height="20" />
+          <mxGeometry as="geometry" y="460" x="700" height="20" width="250" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-48" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-47">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-48" parent="1" source="WVngYqx_YMuxh-05h4gM-47" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="690" y="510" />
+            <mxPoint as="targetPoint" y="510" x="690" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-47" value="道德思想" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="440" y="500" width="150" height="20" />
+          <mxGeometry as="geometry" y="500" x="440" height="20" width="150" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-50" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-49">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-50" parent="1" source="WVngYqx_YMuxh-05h4gM-49" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="820" y="510" />
+            <mxPoint as="targetPoint" y="510" x="820" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-49" value="&lt;div&gt;美德即知识&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="700" y="500" width="80" height="20" />
+          <mxGeometry as="geometry" y="500" x="700" height="20" width="80" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-51" value="&lt;div align=&quot;left&quot;&gt;表面的幸福/真正的幸福&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="820" y="500" width="250" height="20" />
+          <mxGeometry as="geometry" y="500" x="820" height="20" width="250" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-53" value="连贯的知识体系" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="290" y="510" width="90" height="20" />
+          <mxGeometry as="geometry" y="510" x="290" height="20" width="90" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-56" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-54">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-56" parent="1" source="WVngYqx_YMuxh-05h4gM-54" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="430" y="615" />
+            <mxPoint as="targetPoint" y="615" x="430" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-54" value="柏拉图" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="250" y="600" width="70" height="30" />
+          <mxGeometry as="geometry" y="600" x="250" height="30" width="70" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-57" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-55">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-57" parent="1" source="WVngYqx_YMuxh-05h4gM-55" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="680" y="615" />
+            <mxPoint as="targetPoint" y="615" x="680" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-60" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-55">
+        <mxCell id="WVngYqx_YMuxh-05h4gM-60" parent="1" source="WVngYqx_YMuxh-05h4gM-55" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="680" y="720" />
+            <mxPoint as="targetPoint" y="720" x="680" />
             <Array as="points">
-              <mxPoint x="515" y="720" />
-              <mxPoint x="680" y="720" />
+              <mxPoint y="720" x="515" />
+              <mxPoint y="720" x="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-55">
+        <mxCell id="p7dkGp5icExoeywVa9xs-1" parent="1" source="WVngYqx_YMuxh-05h4gM-55" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="680" y="1050" />
+            <mxPoint as="targetPoint" y="1050" x="680" />
             <Array as="points">
-              <mxPoint x="515" y="1050" />
-              <mxPoint x="680" y="1050" />
+              <mxPoint y="1050" x="515" />
+              <mxPoint y="1050" x="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-5" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-55">
+        <mxCell id="p7dkGp5icExoeywVa9xs-5" parent="1" source="WVngYqx_YMuxh-05h4gM-55" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="680" y="1260" />
+            <mxPoint as="targetPoint" y="1260" x="680" />
             <Array as="points">
-              <mxPoint x="515" y="1260" />
-              <mxPoint x="680" y="1260" />
+              <mxPoint y="1260" x="515" />
+              <mxPoint y="1260" x="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-55" value="知识理论" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="440" y="605" width="150" height="20" />
+          <mxGeometry as="geometry" y="605" x="440" height="20" width="150" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-58" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;洞穴&lt;/b&gt;（教育——从现象世界到实在世界的彻底转向）&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="690" y="605" width="280" height="20" />
+          <mxGeometry as="geometry" y="605" x="690" height="20" width="280" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-59" value="&lt;b&gt;相对主义&lt;br&gt;怀疑主义&lt;/b&gt;" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1">
-          <mxGeometry as="geometry" x="980" y="127.5" width="80" height="55" />
+          <mxGeometry as="geometry" y="127.5" x="980" height="55" width="80" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-61" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;线段&lt;/b&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="690" y="710" width="40" height="20" />
+          <mxGeometry as="geometry" y="710" x="690" height="20" width="40" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-62" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="880" y="937" />
-            <mxPoint as="targetPoint" x="880" y="717" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-62" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="937" x="880" />
+            <mxPoint as="targetPoint" y="717" x="880" />
             <Array as="points">
-              <mxPoint x="880" y="857" />
+              <mxPoint y="857" x="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-63" value="y" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="860" y="691" width="40" height="20" />
+          <mxGeometry as="geometry" y="691" x="860" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-64" value="x" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="860" y="937" width="40" height="20" />
+          <mxGeometry as="geometry" y="937" x="860" height="20" width="40" />
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-65" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="727" />
-            <mxPoint as="targetPoint" x="960" y="727" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-65" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="727" x="800" />
+            <mxPoint as="targetPoint" y="727" x="960" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-66" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="766.9999999999998" />
-            <mxPoint as="targetPoint" x="960" y="766.9999999999998" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-66" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="766.9999999999998" x="800" />
+            <mxPoint as="targetPoint" y="766.9999999999998" x="960" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-67" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="806.9999999999998" />
-            <mxPoint as="targetPoint" x="960" y="806.9999999999998" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-67" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="806.9999999999998" x="800" />
+            <mxPoint as="targetPoint" y="806.9999999999998" x="960" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-68" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="846.9999999999998" />
-            <mxPoint as="targetPoint" x="960" y="846.9999999999998" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-68" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="846.9999999999998" x="800" />
+            <mxPoint as="targetPoint" y="846.9999999999998" x="960" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-69" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="886.9999999999998" />
-            <mxPoint as="targetPoint" x="960" y="886.9999999999998" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-69" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="886.9999999999998" x="800" />
+            <mxPoint as="targetPoint" y="886.9999999999998" x="960" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVngYqx_YMuxh-05h4gM-70" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" width="50" height="50" relative="1">
-            <mxPoint as="sourcePoint" x="800" y="926.9999999999998" />
-            <mxPoint as="targetPoint" x="960" y="926.9999999999998" />
+        <mxCell id="WVngYqx_YMuxh-05h4gM-70" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="926.9999999999998" x="800" />
+            <mxPoint as="targetPoint" y="926.9999999999998" x="960" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-71" value="想象" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="908" y="899" width="40" height="20" />
+          <mxGeometry as="geometry" y="899" x="908" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-72" value="信念" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="908" y="857" width="40" height="20" />
+          <mxGeometry as="geometry" y="857" x="908" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-73" value="思想" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="908" y="777" width="40" height="20" />
+          <mxGeometry as="geometry" y="777" x="908" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-74" value="知识" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="908" y="737" width="40" height="20" />
+          <mxGeometry as="geometry" y="737" x="908" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-75" value="影像" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="820" y="899" width="40" height="20" />
+          <mxGeometry as="geometry" y="899" x="820" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-76" value="事物" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="820" y="857" width="40" height="20" />
+          <mxGeometry as="geometry" y="857" x="820" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-77" value="数学事物" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="810" y="777" width="50" height="20" />
+          <mxGeometry as="geometry" y="777" x="810" height="20" width="50" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-78" value="善（理念）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="800" y="737" width="80" height="20" />
+          <mxGeometry as="geometry" y="737" x="800" height="20" width="80" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-80" value="知识" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="980" y="757" width="40" height="20" />
+          <mxGeometry as="geometry" y="757" x="980" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-81" value="意见" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="980" y="879" width="40" height="20" />
+          <mxGeometry as="geometry" y="879" x="980" height="20" width="40" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-82" value="理智世界" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="740" y="758.5" width="50" height="20" />
+          <mxGeometry as="geometry" y="758.5" x="740" height="20" width="50" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-83" value="可见世界" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="740" y="879" width="50" height="20" />
+          <mxGeometry as="geometry" y="879" x="740" height="20" width="50" />
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-2" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;理念论&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;理念有独立的存在&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.理念乃是一个事物之本质的原因&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2.一个事物可以说分有了一个理念&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3.一个事物可以说模仿了一个理念&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;诸理念即使在保持它们各自的统一性时，也倾向于相互结合&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="690" y="1040" width="330" height="20" />
+          <mxGeometry as="geometry" y="1040" x="690" height="20" width="330" />
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-3" value="&lt;div align=&quot;left&quot;&gt;处于意见层次的人们可以认出一个正义的行为，但不能告诉你为什么它是正义的&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="1050" y="879" width="220" height="20" />
+          <mxGeometry as="geometry" y="879" x="1050" height="20" width="220" />
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-7" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="p7dkGp5icExoeywVa9xs-6">
+        <mxCell id="p7dkGp5icExoeywVa9xs-7" parent="1" source="p7dkGp5icExoeywVa9xs-6" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="840" y="1260" />
+            <mxPoint as="targetPoint" y="1260" x="840" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-6" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;道德哲学&lt;/b&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="685" y="1250" width="55" height="20" />
+          <mxGeometry as="geometry" y="1250" x="685" height="20" width="55" />
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-9" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="p7dkGp5icExoeywVa9xs-8">
+        <mxCell id="p7dkGp5icExoeywVa9xs-9" parent="1" source="p7dkGp5icExoeywVa9xs-8" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="940" y="1170" />
+            <mxPoint as="targetPoint" y="1170" x="940" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-10" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="p7dkGp5icExoeywVa9xs-8">
+        <mxCell id="p7dkGp5icExoeywVa9xs-10" parent="1" source="p7dkGp5icExoeywVa9xs-8" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="940" y="1140" />
+            <mxPoint as="targetPoint" y="1140" x="940" />
             <Array as="points">
-              <mxPoint x="870" y="1140" />
+              <mxPoint y="1140" x="870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7dkGp5icExoeywVa9xs-11" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="p7dkGp5icExoeywVa9xs-8">
+        <mxCell id="p7dkGp5icExoeywVa9xs-11" parent="1" source="p7dkGp5icExoeywVa9xs-8" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="940" y="1200" />
+            <mxPoint as="targetPoint" y="1200" x="940" />
             <Array as="points">
-              <mxPoint x="870" y="1180" />
-              <mxPoint x="870" y="1200" />
+              <mxPoint y="1180" x="870" />
+              <mxPoint y="1200" x="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-8" value="灵魂" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="850" y="1160" width="40" height="20" />
+          <mxGeometry as="geometry" y="1160" x="850" height="20" width="40" />
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-12" value="理性（对目的或价值的意识）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="948" y="1130" width="172" height="20" />
+          <mxGeometry as="geometry" y="1130" x="948" height="20" width="172" />
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-13" value="精神（激发行动的驱动力）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="948" y="1160" width="152" height="20" />
+          <mxGeometry as="geometry" y="1160" x="948" height="20" width="152" />
         </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-14" value="欲望（对物质的东西的欲望）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" x="950" y="1190" width="160" height="20" />
+          <mxGeometry as="geometry" y="1190" x="950" height="20" width="160" />
+        </mxCell>
+        <mxCell id="GLffS5xHXD3V3gzNx7sH-2" value="一切理论都有其对立的说法" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+          <mxGeometry as="geometry" y="60" x="490" height="20" width="150" />
+        </mxCell>
+        <mxCell id="GLffS5xHXD3V3gzNx7sH-3" value="通过理性认识" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="340" x="330" height="20" width="80" />
+        </mxCell>
+        <mxCell id="GLffS5xHXD3V3gzNx7sH-4" value="辩证法（助产术）" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" y="400" x="910" height="20" width="110" />
         </mxCell>
       </root>
     </mxGraphModel>
