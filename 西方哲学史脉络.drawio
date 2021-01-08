@@ -1,6 +1,6 @@
-<mxfile type="github" version="14.1.8" etag="sX9xN6hoELJCSyzJjCh5" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-08T06:00:21.380Z" host="app.diagrams.net">
+<mxfile type="github" version="14.1.8" etag="pdY7lCA3ssNuaA5BkLrR" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-08T11:58:17.239Z" host="app.diagrams.net">
   <diagram id="TQzP97epoowJSU-RKOnz" name="Page-1">
-    <mxGraphModel grid="1" dx="1730" dy="1012" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1038" dy="607" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
               <mxPoint x="190" y="255" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-6" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="WVngYqx_YMuxh-05h4gM-1" target="WVngYqx_YMuxh-05h4gM-54">
+          <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-1" value="西方哲学史" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="70" y="685" width="120" height="50" />
@@ -206,6 +209,14 @@
         <mxCell id="WVngYqx_YMuxh-05h4gM-56" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-54">
           <mxGeometry as="geometry" relative="1">
             <mxPoint as="targetPoint" x="430" y="710" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WVngYqx_YMuxh-05h4gM-54">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="285" y="1910" />
+            <Array as="points">
+              <mxPoint x="285" y="1840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVngYqx_YMuxh-05h4gM-54" value="柏拉图" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
@@ -563,11 +574,110 @@
         <mxCell id="kEAcKq2PW2KMM7VCmqcJ-42" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; background-color: rgb(255 , 255 , 255)&quot;&gt;君主制（一人掌握政权，多数人受益），僭主制（&lt;b&gt;一人掌握政权，少数人受益&lt;/b&gt;）&lt;/span&gt;&lt;br style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; background-color: rgb(255 , 255 , 255)&quot;&gt;贵族制（少数人掌握政权，多数人受益），寡头制（&lt;b&gt;少数人掌握政权，少数人受益&lt;/b&gt;）&lt;/span&gt;&lt;br style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; background-color: rgb(255 , 255 , 255)&quot;&gt;共和制（多数人掌握政权，多数人受益），民主制（&lt;b&gt;多数人掌握政权，少数人受益&lt;/b&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="585" y="1570" width="450" height="50" />
         </mxCell>
-        <mxCell id="kEAcKq2PW2KMM7VCmqcJ-44" value="&lt;span style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; line-height: 1.6 ; text-indent: 0px ; letter-spacing: normal ; font-size: 9px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;·寡头政治指的是政权掌控在少数人的手中 僭主政治指采用暴力、政变等以正当的政治手段篡夺王位 但为王者是不恰当的王 他们一般不会自诩为王 他们称自己为“临时执行官”&lt;/font&gt;&lt;/span&gt;" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="635" y="1630" width="350" height="40" />
+        <mxCell id="kEAcKq2PW2KMM7VCmqcJ-44" value="&lt;div align=&quot;center&quot;&gt;具有经验主义的背景&lt;br&gt;思辨&lt;br&gt;&lt;/div&gt;" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="230" y="1950" width="140" height="50" />
         </mxCell>
         <mxCell id="kEAcKq2PW2KMM7VCmqcJ-46" value="&lt;font style=&quot;font-size: 9px&quot;&gt;恶劣之处在于使统一的国家分裂成富人与穷人两个互相争斗的阶层&lt;/font&gt;" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="1100" y="1550" width="350" height="30" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-4" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-2">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="430" y="1925" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-8" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-2">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="430" y="1710" />
+            <Array as="points">
+              <mxPoint x="310" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-2" value="亚里士多德" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="250" y="1910" width="70" height="30" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-3" value="&lt;b&gt;最高目标——善&lt;/b&gt;" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1">
+          <mxGeometry as="geometry" x="1460" y="1337.5" width="100" height="55" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-7" value="&lt;span style=&quot;text-align: left ; color: rgb(18 , 18 , 18) ; text-transform: none ; line-height: 1.6 ; text-indent: 0px ; letter-spacing: normal ; font-size: 9px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; float: none ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;·寡头政治指的是政权掌控在少数人的手中 僭主政治指采用暴力、政变等以正当的政治手段篡夺王位 但为王者是不恰当的王 他们一般不会自诩为王 他们称自己为“临时执行官”&lt;/font&gt;&lt;/span&gt;" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="635" y="1640" width="350" height="40" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-10" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-9">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="620" y="1710" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-9" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;逻辑学&lt;/b&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="435" y="1700" width="55" height="20" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-12" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-11" target="6Y1BphJFixehWziRN3FM-13">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="760" y="1710" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-14" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-11">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="740" y="1750" />
+            <Array as="points">
+              <mxPoint x="660" y="1750" />
+              <mxPoint x="730" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-11" value="范畴" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="620" y="1700" width="80" height="20" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-13" value="指基本的存在方式，把事物进行归类时所依据的共同性质：时间、空间、质地、关系" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="740" y="1685" width="460" height="50" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-15" value="&lt;div align=&quot;left&quot;&gt;可分为属、种和个体事物&lt;br&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="740" y="1735" width="150" height="30" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-16" value="&lt;div align=&quot;center&quot;&gt;思想总是关涉某种具体的个别事物即一个实体的，但一个事物不光是存在而已，它总有其存在的方式和存在的根据&lt;/div&gt;" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="357.5" y="1735" width="210" height="55" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-17" value="谓词" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="610" y="1720" width="60" height="30" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-19" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-18">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="620" y="1925" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-21" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-18">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="620" y="1970" />
+            <Array as="points">
+              <mxPoint x="475" y="1970" />
+              <mxPoint x="620" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-18">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="620" y="2040" />
+            <Array as="points">
+              <mxPoint x="475" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-18" value="形而上学" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="435" y="1915" width="80" height="20" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-20" value="研究存在者之为存在者的一门科学，对存在及“诸原则”和“诸原因”的研究" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="620" y="1900" width="400" height="50" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-22" value="质料和形式" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="620" y="1960" width="80" height="20" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-24" value="四因论" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="620" y="2030" width="80" height="20" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-25" value="质料、形式、目的、动力" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="700" y="2025" width="150" height="30" />
+        </mxCell>
+        <mxCell id="6Y1BphJFixehWziRN3FM-26" value="·变化的一个基本类型是从潜能到现实的变化" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="700" y="2055" width="240" height="30" />
         </mxCell>
       </root>
     </mxGraphModel>
