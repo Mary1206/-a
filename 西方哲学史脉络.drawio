@@ -1,6 +1,6 @@
-<mxfile type="github" version="14.1.8" etag="SBGAVZt5XHN-tc54McEh" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-10T15:09:47.027Z" host="app.diagrams.net">
+<mxfile type="github" version="14.1.8" etag="FLXaTFlYgsKEA8TvGSuy" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2021-01-11T08:54:38.482Z" host="app.diagrams.net">
   <diagram id="TQzP97epoowJSU-RKOnz" name="Page-1">
-    <mxGraphModel grid="1" dx="1523" dy="853" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1540" dy="915" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,6 +361,11 @@
         <mxCell id="WVngYqx_YMuxh-05h4gM-83" value="可见世界" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="1040" y="1014" width="50" height="20" />
         </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-35" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="p7dkGp5icExoeywVa9xs-2" target="q0dwspy2gzPDez_QZb3u-36">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1440" y="1185" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p7dkGp5icExoeywVa9xs-2" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;理念论&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;理念有独立的存在&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.理念乃是一个事物之本质的原因&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2.一个事物可以说分有了一个理念&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3.一个事物可以说模仿了一个理念&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;诸理念即使在保持它们各自的统一性时，也倾向于相互结合&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="990" y="1175" width="330" height="20" />
         </mxCell>
@@ -627,7 +632,7 @@
         </mxCell>
         <mxCell id="W2rjVXYy0i918wYhvBv7-1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-2">
           <mxGeometry as="geometry" relative="1">
-            <mxPoint as="targetPoint" x="585" y="2910" />
+            <mxPoint as="targetPoint" x="585" y="3160" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Y1BphJFixehWziRN3FM-2" value="亚里士多德" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
@@ -666,6 +671,11 @@
         </mxCell>
         <mxCell id="6Y1BphJFixehWziRN3FM-13" value="指基本的存在方式，把事物进行归类时所依据的共同性质：时间、空间、质地、关系" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="1040" y="1725" width="460" height="50" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-33" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="6Y1BphJFixehWziRN3FM-15" target="q0dwspy2gzPDez_QZb3u-34">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1115" y="1870" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6Y1BphJFixehWziRN3FM-15" value="&lt;div align=&quot;left&quot;&gt;可分为属、种和个体事物&lt;br&gt;&lt;/div&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="1040" y="1775" width="150" height="30" />
@@ -883,6 +893,194 @@
         </mxCell>
         <mxCell id="W2rjVXYy0i918wYhvBv7-22" value="太一" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="1200" y="3110" width="42.5" height="40" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-2" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="720.0000000000002" y="3110" />
+            <Array as="points">
+              <mxPoint x="570" y="3110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-20" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-1">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="720" y="3560" />
+            <Array as="points">
+              <mxPoint x="570" y="3560" />
+              <mxPoint x="720" y="3560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-1" value="中世纪基督教哲学" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="520" y="3160" width="100" height="30" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-6" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-3">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="820" y="3270" />
+            <Array as="points">
+              <mxPoint x="750" y="3270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-3" value="教父哲学" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="722.5" y="3100" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-4" value="超理性、反理性的信仰特点" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="810" y="3095" width="160" height="30" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-5" value="&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;早期基督教神学探讨问题：&lt;/span&gt;&lt;/p&gt;&#xa;&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;1.上帝论（本性和特点）&lt;/span&gt;&lt;/p&gt;&#xa;&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;2.基督论&lt;/span&gt;&lt;/p&gt;&#xa;&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;3.人性&lt;/span&gt;&lt;/p&gt;" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="810" y="3125" width="170" height="110" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-8" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-7">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1070" y="3240" />
+            <Array as="points">
+              <mxPoint x="865" y="3240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-10" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-7">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1070" y="3330" />
+            <Array as="points">
+              <mxPoint x="865" y="3330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-14" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-7">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="830" y="3390" />
+            <Array as="points">
+              <mxPoint x="830" y="3290" />
+              <mxPoint x="830" y="3290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-7" value="奥古斯丁" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="825" y="3260" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-9" value="创世" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="1088" y="3230" width="160" height="30" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-16" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-11">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1320" y="3335" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-18" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-11">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1320" y="3380" />
+            <Array as="points">
+              <mxPoint x="1129" y="3380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-11" value="原罪与救赎" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="1088" y="3320" width="82" height="30" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-15" value="教父哲学的集大成者&lt;br&gt;新柏拉图主义的神秘" parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="802.5" y="3400" width="160" height="30" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-17" value="恶是人滥用上帝给予的自由意志导致的结果" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="1345" y="3325" width="240" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-19" value="预定论" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="1350" y="3370" width="50" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-22" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-21">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="900" y="3480" />
+            <Array as="points">
+              <mxPoint x="760" y="3480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-21">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="900" y="3610" />
+            <Array as="points">
+              <mxPoint x="760" y="3610" />
+              <mxPoint x="890" y="3610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-21" value="经院哲学" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="720" y="3550" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-24" value="论证上帝存在" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="900" y="3470" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-26" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-25">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1030" y="3610" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-38" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-25">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1440" y="3500" />
+            <Array as="points">
+              <mxPoint x="943" y="3500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-40" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-25">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1440" y="3830" />
+            <Array as="points">
+              <mxPoint x="943" y="3830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-25" value="共相" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="902.5" y="3600" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-27" value="共相是指普遍的、共同的特征" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="1035" y="3600" width="170" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-28" value="可看做亚里士多德主义在西欧复兴的结果" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="520" y="3580" width="230" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-31" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-29" target="q0dwspy2gzPDez_QZb3u-32">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="800" y="3070" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-29" value="普洛提诺" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="657.5" y="3060" width="82.5" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-32" value="新柏拉图主义 “太一”&amp;nbsp; 流溢&amp;nbsp; 理智 灵魂 三个本体&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="780" y="3060" width="260" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-34" value="第二实体？" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="1095" y="1860" width="65" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-36" value="相论 自上而下、独断论&lt;br&gt;真理在心中 用灵魂去回忆 神秘的" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="1420" y="1175" width="200" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-37" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;自下而上 经验主义&lt;br&gt;共相是一类事物共有的特质，并且存在于事物之中&lt;br&gt;超验的共相决定事物自上而下，从个别事物中抽象出来的共相自下而上&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="1251.5" y="1780" width="228.5" height="80" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-42" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-39" target="q0dwspy2gzPDez_QZb3u-43">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1610" y="3500" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-39" value="实在论" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="1440" y="3490" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-44" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="q0dwspy2gzPDez_QZb3u-41" target="q0dwspy2gzPDez_QZb3u-45">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" x="1590" y="3830" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-41" value="唯名论" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" x="1440" y="3820" width="80" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-43" value="共相独立于个别物体而存在" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="1590" y="3490" width="160" height="20" />
+        </mxCell>
+        <mxCell id="q0dwspy2gzPDez_QZb3u-45" value="共相不具有任何实在性" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="1570" y="3820" width="140" height="20" />
         </mxCell>
       </root>
     </mxGraphModel>
